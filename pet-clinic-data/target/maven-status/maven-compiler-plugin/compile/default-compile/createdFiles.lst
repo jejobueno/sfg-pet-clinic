@@ -1,7 +1,11 @@
 jejobueno\springframework\sfgpetclinic\model\Pet.class
+jejobueno\springframework\sfgpetclinic\services\map\SpecialitiesMapService.class
 jejobueno\springframework\sfgpetclinic\model\Person.class
+jejobueno\springframework\sfgpetclinic\model\Speciality.class
 jejobueno\springframework\sfgpetclinic\services\map\PetServiceMap.class
+jejobueno\springframework\sfgpetclinic\model\Visit.class
 jejobueno\springframework\sfgpetclinic\services\OwnerService.class
+jejobueno\springframework\sfgpetclinic\services\PetTypeService.class
 jejobueno\springframework\sfgpetclinic\model\BaseEntity.class
 jejobueno\springframework\sfgpetclinic\services\map\VetServiceMap.class
 jejobueno\springframework\sfgpetclinic\model\Owner.class
@@ -11,4 +15,6 @@ jejobueno\springframework\sfgpetclinic\model\PetType.class
 jejobueno\springframework\sfgpetclinic\services\map\AbstractMapService.class
 jejobueno\springframework\sfgpetclinic\services\VetService.class
 jejobueno\springframework\sfgpetclinic\services\PetService.class
+jejobueno\springframework\sfgpetclinic\services\map\PetTypeMapService.class
 jejobueno\springframework\sfgpetclinic\model\Vet.class
+jejobueno\springframework\sfgpetclinic\services\SpecialitiesService.class
